@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Suko Gurung.
 - 😄 Pronouns: He/Him
   
-- 👀 Interests: data-driven & secure applications.
+- ⚡ Interests: data-driven & secure applications.
 - 🌱 currently learning: React js and AI/ML.
 
-- ⚡ Fun fact: I am certified trekking guide.
+- 🗻 Fun fact: I am certified trekking guide.
 - 📫 Reach me: suko.gurung@outlook.com
 
 <!---
